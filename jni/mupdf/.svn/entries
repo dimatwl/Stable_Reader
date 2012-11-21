@@ -1,0 +1,77 @@
+10
+
+dir
+62
+http://vudroid.googlecode.com/svn/trunk/jni/mupdf
+http://vudroid.googlecode.com/svn
+
+
+
+2010-06-19T17:57:40.902834Z
+30
+pavel.tiunov
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+aae08a87-be0d-dedf-da58-693b0a99159c
+
+freetype-overlay
+dir
+
+freetype
+dir
+
+jpeg
+dir
+
+Android.mk
+file
+
+
+
+
+2012-11-21T12:17:54.000000Z
+8157fe1fa2acd7a38c06e41d95dbc2f1
+2010-06-19T17:57:40.902834Z
+30
+pavel.tiunov
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7540
+
+mupdf-overlay
+dir
+
+mupdf
+dir
+

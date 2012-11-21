@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/builds/ansi
+END
+ansi.mk
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/builds/ansi/ansi.mk
+END
+ansi-def.mk
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/builds/ansi/ansi-def.mk
+END

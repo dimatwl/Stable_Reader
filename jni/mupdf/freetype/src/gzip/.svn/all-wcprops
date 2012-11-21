@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/src/gzip
+END
+infcodes.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/src/gzip/infcodes.h
+END
+inffixed.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/src/gzip/inffixed.h
+END
+ftgzip.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/src/gzip/ftgzip.c
+END
+zlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/src/gzip/zlib.h
+END
+zutil.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/src/gzip/zutil.c
+END
+infutil.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/src/gzip/infutil.c
+END
+zutil.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/src/gzip/zutil.h
+END
+inftrees.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/src/gzip/inftrees.c
+END
+rules.mk
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/src/gzip/rules.mk
+END
+infutil.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/src/gzip/infutil.h
+END
+inflate.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/src/gzip/inflate.c
+END
+zconf.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/src/gzip/zconf.h
+END
+inftrees.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/src/gzip/inftrees.h
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/src/gzip/Jamfile
+END
+infblock.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/src/gzip/infblock.c
+END
+infcodes.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/src/gzip/infcodes.c
+END
+infblock.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/src/gzip/infblock.h
+END
+adler32.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/src/gzip/adler32.c
+END

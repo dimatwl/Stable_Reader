@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/src/winfonts
+END
+rules.mk
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/src/winfonts/rules.mk
+END
+winfnt.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/src/winfonts/winfnt.c
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/src/winfonts/Jamfile
+END
+fnterrs.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/src/winfonts/fnterrs.h
+END
+winfnt.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/src/winfonts/winfnt.h
+END
+module.mk
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/src/winfonts/module.mk
+END

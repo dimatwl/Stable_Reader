@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/builds/compiler
+END
+emx.mk
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/builds/compiler/emx.mk
+END
+watcom.mk
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/builds/compiler/watcom.mk
+END
+win-lcc.mk
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/builds/compiler/win-lcc.mk
+END
+gcc.mk
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/builds/compiler/gcc.mk
+END
+ansi-cc.mk
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/builds/compiler/ansi-cc.mk
+END
+intelc.mk
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/builds/compiler/intelc.mk
+END
+visualage.mk
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/builds/compiler/visualage.mk
+END
+unix-lcc.mk
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/builds/compiler/unix-lcc.mk
+END
+bcc-dev.mk
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/builds/compiler/bcc-dev.mk
+END
+visualc.mk
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/builds/compiler/visualc.mk
+END
+bcc.mk
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/builds/compiler/bcc.mk
+END
+gcc-dev.mk
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/builds/compiler/gcc-dev.mk
+END

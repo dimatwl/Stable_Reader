@@ -1,0 +1,329 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/6/trunk/jni/mupdf/mupdf/mupdf
+END
+pdf_shade1.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/jni/mupdf/mupdf/mupdf/pdf_shade1.c
+END
+pdf_fontfile.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/jni/mupdf/mupdf/mupdf/pdf_fontfile.c
+END
+pdf_shade4.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/jni/mupdf/mupdf/mupdf/pdf_shade4.c
+END
+cmap_korea.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/jni/mupdf/mupdf/mupdf/cmap_korea.c
+END
+pdf_colorspace1.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/jni/mupdf/mupdf/mupdf/pdf_colorspace1.c
+END
+pdf_colorspace2.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/jni/mupdf/mupdf/mupdf/pdf_colorspace2.c
+END
+cmapdump.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/jni/mupdf/mupdf/mupdf/cmapdump.c
+END
+pdf_annot.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/jni/mupdf/mupdf/mupdf/pdf_annot.c
+END
+pdf_cmap.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/jni/mupdf/mupdf/mupdf/pdf_cmap.c
+END
+pdf_repair.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/jni/mupdf/mupdf/mupdf/pdf_repair.c
+END
+pdf_image.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/jni/mupdf/mupdf/mupdf/pdf_image.c
+END
+glyphlist.txt
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/jni/mupdf/mupdf/mupdf/glyphlist.txt
+END
+glyphmorf.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/jni/mupdf/mupdf/mupdf/glyphmorf.py
+END
+pdf_shade.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/jni/mupdf/mupdf/mupdf/pdf_shade.c
+END
+pdf_unicode.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/jni/mupdf/mupdf/mupdf/pdf_unicode.c
+END
+pdf_debug.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/jni/mupdf/mupdf/mupdf/pdf_debug.c
+END
+mupdf.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/jni/mupdf/mupdf/mupdf/mupdf.h
+END
+pdf_fontenc.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/jni/mupdf/mupdf/mupdf/pdf_fontenc.c
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/jni/mupdf/mupdf/mupdf/Jamfile
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/jni/mupdf/mupdf/mupdf/COPYING
+END
+cmap_gb.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/jni/mupdf/mupdf/mupdf/cmap_gb.c
+END
+pdf_open.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/jni/mupdf/mupdf/mupdf/pdf_open.c
+END
+font_sans.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/jni/mupdf/mupdf/mupdf/font_sans.c
+END
+fontdump.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/jni/mupdf/mupdf/mupdf/fontdump.c
+END
+font_serif.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/jni/mupdf/mupdf/mupdf/font_serif.c
+END
+font_mono.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/jni/mupdf/mupdf/mupdf/font_mono.c
+END
+pdf_font.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/jni/mupdf/mupdf/mupdf/pdf_font.c
+END
+pdf_cmap_parse.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/jni/mupdf/mupdf/mupdf/pdf_cmap_parse.c
+END
+pdf_parse.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/jni/mupdf/mupdf/mupdf/pdf_parse.c
+END
+pdf_page.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/jni/mupdf/mupdf/mupdf/pdf_page.c
+END
+pdf_interpret.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/jni/mupdf/mupdf/mupdf/pdf_interpret.c
+END
+pdf_pattern.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/jni/mupdf/mupdf/mupdf/pdf_pattern.c
+END
+pdf_cmap_load.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/jni/mupdf/mupdf/mupdf/pdf_cmap_load.c
+END
+pdf_outline.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/jni/mupdf/mupdf/mupdf/pdf_outline.c
+END
+APV.mk
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/jni/mupdf/mupdf/mupdf/APV.mk
+END
+pdf_function.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/jni/mupdf/mupdf/mupdf/pdf_function.c
+END
+pdf_cmap_table.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/jni/mupdf/mupdf/mupdf/pdf_cmap_table.c
+END
+pdf_lex.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/jni/mupdf/mupdf/mupdf/pdf_lex.c
+END
+font_misc.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/jni/mupdf/mupdf/mupdf/font_misc.c
+END
+cmap_cns.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/jni/mupdf/mupdf/mupdf/cmap_cns.c
+END
+pdf_fontagl.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/jni/mupdf/mupdf/mupdf/pdf_fontagl.c
+END
+pdf_stream.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/jni/mupdf/mupdf/mupdf/pdf_stream.c
+END
+pdf_pagetree.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/jni/mupdf/mupdf/mupdf/pdf_pagetree.c
+END
+pdf_store.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/jni/mupdf/mupdf/mupdf/pdf_store.c
+END
+pdf_xobject.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/jni/mupdf/mupdf/mupdf/pdf_xobject.c
+END
+pdf_build.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/jni/mupdf/mupdf/mupdf/pdf_build.c
+END
+pdf_fontmtx.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/jni/mupdf/mupdf/mupdf/pdf_fontmtx.c
+END
+cmap_tounicode.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/jni/mupdf/mupdf/mupdf/cmap_tounicode.c
+END
+pdf_nametree.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/jni/mupdf/mupdf/mupdf/pdf_nametree.c
+END
+cmap_japan.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/jni/mupdf/mupdf/mupdf/cmap_japan.c
+END
+pdf_crypt.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/jni/mupdf/mupdf/mupdf/pdf_crypt.c
+END
+pdf_xref.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/jni/mupdf/mupdf/mupdf/pdf_xref.c
+END
+pdf_type3.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/jni/mupdf/mupdf/mupdf/pdf_type3.c
+END
+font_cjk.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/jni/mupdf/mupdf/mupdf/font_cjk.c
+END

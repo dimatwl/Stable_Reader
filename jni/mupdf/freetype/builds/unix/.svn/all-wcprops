@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/builds/unix
+END
+mkinstalldirs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/builds/unix/mkinstalldirs
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/builds/unix/configure
+END
+ft-munmap.m4
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/builds/unix/ft-munmap.m4
+END
+freetype2.m4
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/builds/unix/freetype2.m4
+END
+unix-def.in
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/builds/unix/unix-def.in
+END
+ft2unix.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/builds/unix/ft2unix.h
+END
+unix-lcc.mk
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/builds/unix/unix-lcc.mk
+END
+unix.mk
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/builds/unix/unix.mk
+END
+config.guess
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/builds/unix/config.guess
+END
+freetype-config.in
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/builds/unix/freetype-config.in
+END
+config.sub
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/builds/unix/config.sub
+END
+ltmain.sh
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/builds/unix/ltmain.sh
+END
+ftsystem.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/builds/unix/ftsystem.c
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/builds/unix/configure.ac
+END
+ftconfig.in
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/builds/unix/ftconfig.in
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/builds/unix/.gitignore
+END
+unix-dev.mk
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/builds/unix/unix-dev.mk
+END
+configure.raw
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/builds/unix/configure.raw
+END
+freetype2.in
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/builds/unix/freetype2.in
+END
+unix-cc.in
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/builds/unix/unix-cc.in
+END
+install.mk
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/builds/unix/install.mk
+END
+unixddef.mk
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/builds/unix/unixddef.mk
+END
+aclocal.m4
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/builds/unix/aclocal.m4
+END
+install-sh
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/builds/unix/install-sh
+END
+detect.mk
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/builds/unix/detect.mk
+END

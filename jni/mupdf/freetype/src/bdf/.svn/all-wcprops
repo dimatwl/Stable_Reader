@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/src/bdf
+END
+rules.mk
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/src/bdf/rules.mk
+END
+bdf.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/src/bdf/bdf.h
+END
+bdfdrivr.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/src/bdf/bdfdrivr.c
+END
+bdflib.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/src/bdf/bdflib.c
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/src/bdf/Jamfile
+END
+bdfdrivr.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/src/bdf/bdfdrivr.h
+END
+bdferror.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/src/bdf/bdferror.h
+END
+module.mk
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/src/bdf/module.mk
+END
+bdf.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/src/bdf/bdf.c
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/src/bdf/README
+END

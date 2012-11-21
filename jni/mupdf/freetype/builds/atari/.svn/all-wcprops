@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/builds/atari
+END
+ATARI.H
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/builds/atari/ATARI.H
+END
+FNames.SIC
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/builds/atari/FNames.SIC
+END
+README.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/builds/atari/README.TXT
+END
+gen-purec-patch.sh
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/builds/atari/gen-purec-patch.sh
+END
+FREETYPE.PRJ
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/builds/atari/FREETYPE.PRJ
+END
+deflinejoiner.awk
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/builds/atari/deflinejoiner.awk
+END

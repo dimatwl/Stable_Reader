@@ -1,0 +1,707 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/53/trunk/jni/djvudroid
+END
+GMapAreas.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/jni/djvudroid/GMapAreas.cpp
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/jni/djvudroid/Makefile.in
+END
+DjVuDumpHelper.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/jni/djvudroid/DjVuDumpHelper.h
+END
+GSmartPointer.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/jni/djvudroid/GSmartPointer.h
+END
+IFFByteStream.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/jni/djvudroid/IFFByteStream.cpp
+END
+BSByteStream.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/jni/djvudroid/BSByteStream.cpp
+END
+DjVuDocEditor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/jni/djvudroid/DjVuDocEditor.cpp
+END
+Arrays.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/jni/djvudroid/Arrays.h
+END
+GIFFManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/jni/djvudroid/GIFFManager.cpp
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/31/trunk/jni/djvudroid/config.h
+END
+atomic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/jni/djvudroid/atomic.cpp
+END
+DjVuText.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/jni/djvudroid/DjVuText.cpp
+END
+GString.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/jni/djvudroid/GString.cpp
+END
+DjvuDroidTrace.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/jni/djvudroid/DjvuDroidTrace.h
+END
+DjVuImage.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/jni/djvudroid/DjVuImage.h
+END
+JB2Image.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/jni/djvudroid/JB2Image.cpp
+END
+BSEncodeByteStream.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/jni/djvudroid/BSEncodeByteStream.cpp
+END
+XMLTags.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/jni/djvudroid/XMLTags.h
+END
+debug.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/jni/djvudroid/debug.h
+END
+DjVmDoc.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/jni/djvudroid/DjVmDoc.h
+END
+ZPCodec.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/jni/djvudroid/ZPCodec.h
+END
+GOS.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/jni/djvudroid/GOS.h
+END
+IW44Image.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/jni/djvudroid/IW44Image.h
+END
+DjVuMessageLite.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/jni/djvudroid/DjVuMessageLite.h
+END
+Arrays.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/jni/djvudroid/Arrays.cpp
+END
+DjVmDir.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/jni/djvudroid/DjVmDir.h
+END
+GRect.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/jni/djvudroid/GRect.cpp
+END
+GMapAreas.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/jni/djvudroid/GMapAreas.h
+END
+ddjvuapi.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/jni/djvudroid/ddjvuapi.cpp
+END
+MMX.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/jni/djvudroid/MMX.h
+END
+GThreads.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/jni/djvudroid/GThreads.h
+END
+DjVuFile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/jni/djvudroid/DjVuFile.cpp
+END
+IFFByteStream.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/jni/djvudroid/IFFByteStream.h
+END
+BSByteStream.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/jni/djvudroid/BSByteStream.h
+END
+GException.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/jni/djvudroid/GException.h
+END
+DjVmNav.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/jni/djvudroid/DjVmNav.h
+END
+GPixmap.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/jni/djvudroid/GPixmap.h
+END
+GIFFManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/jni/djvudroid/GIFFManager.h
+END
+DjVuImage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/jni/djvudroid/DjVuImage.cpp
+END
+GURL.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2/trunk/jni/djvudroid/GURL.h
+END
+DjVuErrorList.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/jni/djvudroid/DjVuErrorList.cpp
+END
+XMLTags.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/jni/djvudroid/XMLTags.cpp
+END
+Template.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/jni/djvudroid/Template.h
+END
+GScaler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/jni/djvudroid/GScaler.cpp
+END
+JPEGDecoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/jni/djvudroid/JPEGDecoder.h
+END
+atomic.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/jni/djvudroid/atomic.h
+END
+DjVuPort.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/jni/djvudroid/DjVuPort.h
+END
+XMLParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/jni/djvudroid/XMLParser.h
+END
+JB2Image.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/jni/djvudroid/JB2Image.h
+END
+MMRDecoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/jni/djvudroid/MMRDecoder.h
+END
+ZPCodec.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/jni/djvudroid/ZPCodec.cpp
+END
+DjVuMessageLite.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/jni/djvudroid/DjVuMessageLite.cpp
+END
+DjVuFileCache.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/jni/djvudroid/DjVuFileCache.cpp
+END
+DjVuPalette.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/jni/djvudroid/DjVuPalette.h
+END
+GContainer.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/jni/djvudroid/GContainer.h
+END
+DjVuGlobal.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/jni/djvudroid/DjVuGlobal.h
+END
+DjVmDir.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/jni/djvudroid/DjVmDir.cpp
+END
+GThreads.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/jni/djvudroid/GThreads.cpp
+END
+MMX.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/jni/djvudroid/MMX.cpp
+END
+IW44EncodeCodec.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/jni/djvudroid/IW44EncodeCodec.cpp
+END
+GException.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/jni/djvudroid/GException.cpp
+END
+DjVmNav.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/jni/djvudroid/DjVmNav.cpp
+END
+GPixmap.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/jni/djvudroid/GPixmap.cpp
+END
+DataPool.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/jni/djvudroid/DataPool.h
+END
+GURL.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/jni/djvudroid/GURL.cpp
+END
+GRect.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/jni/djvudroid/GRect.h
+END
+ddjvuapi.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/jni/djvudroid/ddjvuapi.h
+END
+JPEGDecoder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/jni/djvudroid/JPEGDecoder.cpp
+END
+DjVuNavDir.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/jni/djvudroid/DjVuNavDir.cpp
+END
+DjVuDocument.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/jni/djvudroid/DjVuDocument.h
+END
+DjVuPort.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/jni/djvudroid/DjVuPort.cpp
+END
+XMLParser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/jni/djvudroid/XMLParser.cpp
+END
+DjVuFile.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/jni/djvudroid/DjVuFile.h
+END
+miniexp.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/jni/djvudroid/miniexp.h
+END
+DjVuToPS.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/jni/djvudroid/DjVuToPS.cpp
+END
+MMRDecoder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/jni/djvudroid/MMRDecoder.cpp
+END
+DjVuGlobalMemory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/jni/djvudroid/DjVuGlobalMemory.cpp
+END
+DjVuMessage.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/jni/djvudroid/DjVuMessage.h
+END
+DjVuErrorList.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/jni/djvudroid/DjVuErrorList.h
+END
+DjVuAnno.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/jni/djvudroid/DjVuAnno.cpp
+END
+ByteStream.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/jni/djvudroid/ByteStream.h
+END
+DjVuInfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/jni/djvudroid/DjVuInfo.cpp
+END
+DjVmDir0.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/jni/djvudroid/DjVmDir0.h
+END
+GScaler.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/jni/djvudroid/GScaler.h
+END
+UnicodeByteStream.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/jni/djvudroid/UnicodeByteStream.cpp
+END
+DjVuPalette.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/jni/djvudroid/DjVuPalette.cpp
+END
+GBitmap.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/jni/djvudroid/GBitmap.h
+END
+DjVuGlobal.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/jni/djvudroid/DjVuGlobal.cpp
+END
+GContainer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/jni/djvudroid/GContainer.cpp
+END
+JB2EncodeCodec.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/jni/djvudroid/JB2EncodeCodec.cpp
+END
+GSmartPointer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/jni/djvudroid/GSmartPointer.cpp
+END
+DjVuDumpHelper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/jni/djvudroid/DjVuDumpHelper.cpp
+END
+files.txt
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/jni/djvudroid/files.txt
+END
+DjVuFileCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/jni/djvudroid/DjVuFileCache.h
+END
+DataPool.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/jni/djvudroid/DataPool.cpp
+END
+Makefile.dep
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/jni/djvudroid/Makefile.dep
+END
+Android.mk
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/53/trunk/jni/djvudroid/Android.mk
+END
+DjVuDocument.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/jni/djvudroid/DjVuDocument.cpp
+END
+miniexp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/jni/djvudroid/miniexp.cpp
+END
+DjVuDocEditor.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/jni/djvudroid/DjVuDocEditor.h
+END
+DjVuMessage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/jni/djvudroid/DjVuMessage.cpp
+END
+DjVmDir0.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/jni/djvudroid/DjVmDir0.cpp
+END
+ByteStream.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/31/trunk/jni/djvudroid/ByteStream.cpp
+END
+DjVuNavDir.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/jni/djvudroid/DjVuNavDir.h
+END
+GString.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/jni/djvudroid/GString.h
+END
+DjVuText.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/jni/djvudroid/DjVuText.h
+END
+GBitmap.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/jni/djvudroid/GBitmap.cpp
+END
+DjVuToPS.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/jni/djvudroid/DjVuToPS.h
+END
+DjVmDoc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/jni/djvudroid/DjVmDoc.cpp
+END
+debug.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/jni/djvudroid/debug.cpp
+END
+GOS.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/jni/djvudroid/GOS.cpp
+END
+DjVuAnno.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/jni/djvudroid/DjVuAnno.h
+END
+DjVuInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/jni/djvudroid/DjVuInfo.h
+END
+IW44Image.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/jni/djvudroid/IW44Image.cpp
+END
+UnicodeByteStream.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/jni/djvudroid/UnicodeByteStream.h
+END
+ddjvuapi.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/jni/djvudroid/ddjvuapi.pc.in
+END
+GUnicode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/jni/djvudroid/GUnicode.cpp
+END

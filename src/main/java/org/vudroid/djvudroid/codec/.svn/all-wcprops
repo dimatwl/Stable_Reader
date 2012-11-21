@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/53/trunk/src/main/java/org/vudroid/djvudroid/codec
+END
+DjvuPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/53/trunk/src/main/java/org/vudroid/djvudroid/codec/DjvuPage.java
+END
+DjvuDocument.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/52/trunk/src/main/java/org/vudroid/djvudroid/codec/DjvuDocument.java
+END
+DjvuContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/53/trunk/src/main/java/org/vudroid/djvudroid/codec/DjvuContext.java
+END

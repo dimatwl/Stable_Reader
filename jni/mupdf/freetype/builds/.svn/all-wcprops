@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/builds
+END
+toplevel.mk
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/builds/toplevel.mk
+END
+newline
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/builds/newline
+END
+link_dos.mk
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/builds/link_dos.mk
+END
+freetype.mk
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/builds/freetype.mk
+END
+exports.mk
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/builds/exports.mk
+END
+link_std.mk
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/builds/link_std.mk
+END
+modules.mk
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/builds/modules.mk
+END
+detect.mk
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/builds/detect.mk
+END

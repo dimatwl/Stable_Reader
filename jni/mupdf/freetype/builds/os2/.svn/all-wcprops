@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/builds/os2
+END
+os2-gcc.mk
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/builds/os2/os2-gcc.mk
+END
+os2-dev.mk
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/builds/os2/os2-dev.mk
+END
+os2-def.mk
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/builds/os2/os2-def.mk
+END
+detect.mk
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/builds/os2/detect.mk
+END

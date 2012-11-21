@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/53/trunk/jni/vudroid
+END
+Android.mk
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/jni/vudroid/Android.mk
+END
+DjvuDroidBridge.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/53/trunk/jni/vudroid/DjvuDroidBridge.cpp
+END
+pdfdroidbridge.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/jni/vudroid/pdfdroidbridge.c
+END

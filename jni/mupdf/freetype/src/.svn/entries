@@ -1,0 +1,131 @@
+10
+
+dir
+62
+http://vudroid.googlecode.com/svn/trunk/jni/mupdf/freetype/src
+http://vudroid.googlecode.com/svn
+
+
+
+2010-04-04T12:29:54.141010Z
+2
+pavel.tiunov
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+aae08a87-be0d-dedf-da58-693b0a99159c
+
+truetype
+dir
+
+type42
+dir
+
+pfr
+dir
+
+bdf
+dir
+
+pshinter
+dir
+
+gxvalid
+dir
+
+cff
+dir
+
+cid
+dir
+
+raster
+dir
+
+psaux
+dir
+
+tools
+dir
+
+type1
+dir
+
+otvalid
+dir
+
+cache
+dir
+
+psnames
+dir
+
+winfonts
+dir
+
+Jamfile
+file
+
+
+
+
+2012-11-21T12:17:14.000000Z
+d6db803dc8261ba9f3d158e7ff70ff01
+2010-04-04T12:29:54.141010Z
+2
+pavel.tiunov
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+783
+
+pcf
+dir
+
+smooth
+dir
+
+gzip
+dir
+
+sfnt
+dir
+
+base
+dir
+
+autofit
+dir
+
+lzw
+dir
+

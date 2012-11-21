@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/src/truetype
+END
+ttgload.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/src/truetype/ttgload.c
+END
+ttgxvar.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/src/truetype/ttgxvar.c
+END
+ttgload.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/src/truetype/ttgload.h
+END
+ttdriver.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/src/truetype/ttdriver.c
+END
+ttgxvar.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/src/truetype/ttgxvar.h
+END
+ttobjs.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/src/truetype/ttobjs.c
+END
+ttpload.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/src/truetype/ttpload.c
+END
+ttdriver.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/src/truetype/ttdriver.h
+END
+ttinterp.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/src/truetype/ttinterp.c
+END
+module.mk
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/src/truetype/module.mk
+END
+ttobjs.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/src/truetype/ttobjs.h
+END
+ttpload.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/src/truetype/ttpload.h
+END
+ttinterp.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/src/truetype/ttinterp.h
+END
+rules.mk
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/src/truetype/rules.mk
+END
+truetype.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/src/truetype/truetype.c
+END
+ttpic.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/src/truetype/ttpic.c
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/src/truetype/Jamfile
+END
+ttpic.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/src/truetype/ttpic.h
+END
+tterrors.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/src/truetype/tterrors.h
+END

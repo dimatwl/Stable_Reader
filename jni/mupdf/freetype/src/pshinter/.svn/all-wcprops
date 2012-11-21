@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/src/pshinter
+END
+pshglob.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/src/pshinter/pshglob.c
+END
+pshmod.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/src/pshinter/pshmod.h
+END
+pshalgo.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/src/pshinter/pshalgo.h
+END
+pshglob.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/src/pshinter/pshglob.h
+END
+module.mk
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/src/pshinter/module.mk
+END
+pshnterr.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/src/pshinter/pshnterr.h
+END
+rules.mk
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/src/pshinter/rules.mk
+END
+pshrec.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/src/pshinter/pshrec.c
+END
+pshpic.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/src/pshinter/pshpic.c
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/src/pshinter/Jamfile
+END
+pshrec.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/src/pshinter/pshrec.h
+END
+pshmod.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/src/pshinter/pshmod.c
+END
+pshpic.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/src/pshinter/pshpic.h
+END
+pshinter.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/src/pshinter/pshinter.c
+END
+pshalgo.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/src/pshinter/pshalgo.c
+END

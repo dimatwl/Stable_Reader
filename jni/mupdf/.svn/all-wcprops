@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/30/trunk/jni/mupdf
+END
+Android.mk
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/30/trunk/jni/mupdf/Android.mk
+END

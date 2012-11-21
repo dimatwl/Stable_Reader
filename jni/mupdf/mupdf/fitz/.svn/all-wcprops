@@ -1,0 +1,329 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2/trunk/jni/mupdf/mupdf/fitz
+END
+stm_read.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/jni/mupdf/mupdf/fitz/stm_read.c
+END
+filt_basic.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/jni/mupdf/mupdf/fitz/filt_basic.c
+END
+base_string.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/jni/mupdf/mupdf/fitz/base_string.c
+END
+node_path.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/jni/mupdf/mupdf/fitz/node_path.c
+END
+res_colorspace.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/jni/mupdf/mupdf/fitz/res_colorspace.c
+END
+crypt_md5.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/jni/mupdf/mupdf/fitz/crypt_md5.c
+END
+obj_array.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/jni/mupdf/mupdf/fitz/obj_array.c
+END
+filt_predict.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/jni/mupdf/mupdf/fitz/filt_predict.c
+END
+filt_flate.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/jni/mupdf/mupdf/fitz/filt_flate.c
+END
+crypt_arc4.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/jni/mupdf/mupdf/fitz/crypt_arc4.c
+END
+fitz_base.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/jni/mupdf/mupdf/fitz/fitz_base.h
+END
+base_hash.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/jni/mupdf/mupdf/fitz/base_hash.c
+END
+obj_dict.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/jni/mupdf/mupdf/fitz/obj_dict.c
+END
+filt_jbig2d.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/jni/mupdf/mupdf/fitz/filt_jbig2d.c
+END
+res_font.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/jni/mupdf/mupdf/fitz/res_font.c
+END
+base_unicode.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/jni/mupdf/mupdf/fitz/base_unicode.c
+END
+node_misc1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/jni/mupdf/mupdf/fitz/node_misc1.c
+END
+fitz.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/jni/mupdf/mupdf/fitz/fitz.h
+END
+node_misc2.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/jni/mupdf/mupdf/fitz/node_misc2.c
+END
+base_error.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/jni/mupdf/mupdf/fitz/base_error.c
+END
+obj_simple.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/jni/mupdf/mupdf/fitz/obj_simple.c
+END
+filt_pipeline.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/jni/mupdf/mupdf/fitz/filt_pipeline.c
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/jni/mupdf/mupdf/fitz/Jamfile
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/jni/mupdf/mupdf/fitz/COPYING
+END
+base_rect.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/jni/mupdf/mupdf/fitz/base_rect.c
+END
+filt_faxdtab.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/jni/mupdf/mupdf/fitz/filt_faxdtab.c
+END
+node_text.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/jni/mupdf/mupdf/fitz/node_text.c
+END
+crypt_aes.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/jni/mupdf/mupdf/fitz/crypt_aes.c
+END
+filt_aesd.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/jni/mupdf/mupdf/fitz/filt_aesd.c
+END
+stm_buffer.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/jni/mupdf/mupdf/fitz/stm_buffer.c
+END
+fitz_stream.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/jni/mupdf/mupdf/fitz/fitz_stream.h
+END
+filt_dctd.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/jni/mupdf/mupdf/fitz/filt_dctd.c
+END
+base_matrix.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/jni/mupdf/mupdf/fitz/base_matrix.c
+END
+fitz_draw.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/jni/mupdf/mupdf/fitz/fitz_draw.h
+END
+filt_lzwd.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/jni/mupdf/mupdf/fitz/filt_lzwd.c
+END
+util_getopt.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/jni/mupdf/mupdf/fitz/util_getopt.c
+END
+filt_faxd.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/jni/mupdf/mupdf/fitz/filt_faxd.c
+END
+fitz_tree.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/jni/mupdf/mupdf/fitz/fitz_tree.h
+END
+base_memory.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/jni/mupdf/mupdf/fitz/base_memory.c
+END
+node_tree.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/jni/mupdf/mupdf/fitz/node_tree.c
+END
+obj_parse.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/jni/mupdf/mupdf/fitz/obj_parse.c
+END
+filt_faxd.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/jni/mupdf/mupdf/fitz/filt_faxd.h
+END
+filt_arc4.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/jni/mupdf/mupdf/fitz/filt_arc4.c
+END
+stm_filter.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/jni/mupdf/mupdf/fitz/stm_filter.c
+END
+node_toxml.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/jni/mupdf/mupdf/fitz/node_toxml.c
+END
+base_cpudep.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/jni/mupdf/mupdf/fitz/base_cpudep.c
+END
+stm_misc.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/jni/mupdf/mupdf/fitz/stm_misc.c
+END
+util_gettimeofday.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/jni/mupdf/mupdf/fitz/util_gettimeofday.c
+END
+filt_jpxd.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/jni/mupdf/mupdf/fitz/filt_jpxd.c
+END
+stm_open.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/jni/mupdf/mupdf/fitz/stm_open.c
+END
+obj_print.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/jni/mupdf/mupdf/fitz/obj_print.c
+END
+res_image.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/jni/mupdf/mupdf/fitz/res_image.c
+END
+res_shade.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/jni/mupdf/mupdf/fitz/res_shade.c
+END
+crypt_crc32.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/jni/mupdf/mupdf/fitz/crypt_crc32.c
+END

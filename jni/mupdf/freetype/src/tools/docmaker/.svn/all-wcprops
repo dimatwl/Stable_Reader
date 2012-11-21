@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/src/tools/docmaker
+END
+content.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/src/tools/docmaker/content.py
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/src/tools/docmaker/.gitignore
+END
+docbeauty.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/src/tools/docmaker/docbeauty.py
+END
+utils.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/src/tools/docmaker/utils.py
+END
+formatter.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/src/tools/docmaker/formatter.py
+END
+sources.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/src/tools/docmaker/sources.py
+END
+docmaker.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/src/tools/docmaker/docmaker.py
+END
+tohtml.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/src/tools/docmaker/tohtml.py
+END

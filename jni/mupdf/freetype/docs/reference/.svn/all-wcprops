@@ -1,0 +1,245 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/docs/reference
+END
+ft2-user_allocation.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/docs/reference/ft2-user_allocation.html
+END
+ft2-glyph_variants.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/docs/reference/ft2-glyph_variants.html
+END
+ft2-glyph_stroker.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/docs/reference/ft2-glyph_stroker.html
+END
+ft2-type1_tables.html
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/docs/reference/ft2-type1_tables.html
+END
+ft2-sfnt_names.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/docs/reference/ft2-sfnt_names.html
+END
+ft2-raster.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/docs/reference/ft2-raster.html
+END
+ft2-incremental.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/docs/reference/ft2-incremental.html
+END
+ft2-font_formats.html
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/docs/reference/ft2-font_formats.html
+END
+ft2-bdf_fonts.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/docs/reference/ft2-bdf_fonts.html
+END
+ft2-truetype_engine.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/docs/reference/ft2-truetype_engine.html
+END
+ft2-list_processing.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/docs/reference/ft2-list_processing.html
+END
+ft2-gzip.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/docs/reference/ft2-gzip.html
+END
+ft2-truetype_tables.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/docs/reference/ft2-truetype_tables.html
+END
+ft2-glyph_management.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/docs/reference/ft2-glyph_management.html
+END
+ft2-toc.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/docs/reference/ft2-toc.html
+END
+ft2-computations.html
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/docs/reference/ft2-computations.html
+END
+ft2-version.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/docs/reference/ft2-version.html
+END
+ft2-gx_validation.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/docs/reference/ft2-gx_validation.html
+END
+ft2-multiple_masters.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/docs/reference/ft2-multiple_masters.html
+END
+ft2-sizes_management.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/docs/reference/ft2-sizes_management.html
+END
+ft2-base_interface.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/docs/reference/ft2-base_interface.html
+END
+ft2-header_file_macros.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/docs/reference/ft2-header_file_macros.html
+END
+ft2-ot_validation.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/docs/reference/ft2-ot_validation.html
+END
+ft2-quick_advance.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/docs/reference/ft2-quick_advance.html
+END
+ft2-pfr_fonts.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/docs/reference/ft2-pfr_fonts.html
+END
+ft2-gasp_table.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/docs/reference/ft2-gasp_table.html
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/docs/reference/README
+END
+ft2-system_interface.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/docs/reference/ft2-system_interface.html
+END
+ft2-lcd_filtering.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/docs/reference/ft2-lcd_filtering.html
+END
+ft2-basic_types.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/docs/reference/ft2-basic_types.html
+END
+ft2-mac_specific.html
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/docs/reference/ft2-mac_specific.html
+END
+ft2-index.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/docs/reference/ft2-index.html
+END
+ft2-cid_fonts.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/docs/reference/ft2-cid_fonts.html
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/docs/reference/.gitignore
+END
+ft2-outline_processing.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/docs/reference/ft2-outline_processing.html
+END
+ft2-lzw.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/docs/reference/ft2-lzw.html
+END
+ft2-winfnt_fonts.html
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/docs/reference/ft2-winfnt_fonts.html
+END
+ft2-bitmap_handling.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/docs/reference/ft2-bitmap_handling.html
+END
+ft2-cache_subsystem.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/docs/reference/ft2-cache_subsystem.html
+END
+ft2-module_management.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2/trunk/jni/mupdf/freetype/docs/reference/ft2-module_management.html
+END
