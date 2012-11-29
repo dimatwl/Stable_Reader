@@ -52,6 +52,7 @@
     <orderEntry type="library" scope="PROVIDED" name="Maven: xpp3:xpp3:1.1.4c" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Maven: org.json:json:20080701" level="project" />
     <orderEntry type="inheritedJdk" />
+    <orderEntry type="library" name="sensorsimulator-lib-1.1.1" level="project" />
   </component>
 </module>
 

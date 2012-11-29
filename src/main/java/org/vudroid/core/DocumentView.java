@@ -241,7 +241,9 @@ public class DocumentView extends View implements ZoomListener {
     }
 
     private int getBottomLimit() {
-        return (int) pages.get(pages.size() - 1).bounds.bottom - getHeight();
+        if (null != pages.get(pages.size() - 1))
+            return (int) pages.get(pages.size() - 1).bounds.bottom - getHeight();
+        else return 0;
     }
 
     private int getRightLimit() {

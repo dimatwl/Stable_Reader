@@ -4,6 +4,10 @@ import android.app.Activity;
 import android.app.Dialog;
 import android.content.SharedPreferences;
 import android.content.res.Configuration;
+//import android.hardware.Sensor;
+//import android.hardware.SensorEvent;
+//import android.hardware.SensorEventListener;
+import android.hardware.SensorManager;
 import android.os.Bundle;
 import android.view.*;
 import android.widget.FrameLayout;
@@ -14,6 +18,11 @@ import org.vudroid.core.models.CurrentPageModel;
 import org.vudroid.core.models.DecodingProgressModel;
 import org.vudroid.core.models.ZoomModel;
 import org.vudroid.core.views.PageViewZoomControls;
+
+import org.openintents.sensorsimulator.hardware.Sensor;
+import org.openintents.sensorsimulator.hardware.SensorEvent;
+import org.openintents.sensorsimulator.hardware.SensorEventListener;
+import org.openintents.sensorsimulator.hardware.SensorManagerSimulator;
 
 public abstract class BaseViewerActivity extends Activity implements DecodingProgressListener, CurrentPageListener
 {
@@ -27,6 +36,10 @@ public abstract class BaseViewerActivity extends Activity implements DecodingPro
     private ViewerPreferences viewerPreferences;
     private Toast pageNumberToast;
     private CurrentPageModel currentPageModel;
+
+    //private SensorManager mSensorManager;
+    private SensorManagerSimulator mSensorManager;
+    private SensorEventListener mEventListenerAccelerometer;
 
     /**
      * Called when the activity is first created.
@@ -62,6 +75,11 @@ public abstract class BaseViewerActivity extends Activity implements DecodingPro
         documentView.showDocument();
 
         viewerPreferences.addRecent(getIntent().getData());
+
+        //mSensorManager = (SensorManager)getSystemService(SENSOR_SERVICE);
+        mSensorManager = SensorManagerSimulator.getSystemService(this, SENSOR_SERVICE);
+        mSensorManager.connectSimulator();
+        initListeners();
     }
 
     public void decodingProgressChanged(final int currentlyDecoding)
@@ -143,6 +161,7 @@ public abstract class BaseViewerActivity extends Activity implements DecodingPro
     @Override
     protected void onStop()
     {
+        mSensorManager.unregisterListener(mEventListenerAccelerometer);
         super.onStop();
     }
 
@@ -150,6 +169,7 @@ public abstract class BaseViewerActivity extends Activity implements DecodingPro
     protected void onDestroy() {
         decodeService.recycle();
         decodeService = null;
+        mSensorManager.unregisterListener(mEventListenerAccelerometer);
         super.onDestroy();
     }
 
@@ -208,5 +228,47 @@ public abstract class BaseViewerActivity extends Activity implements DecodingPro
                 return new GoToPageDialog(this, documentView, decodeService);
         }
         return null;
+    }
+
+    @Override
+    protected void onResume() {
+        super.onResume();
+        mSensorManager.registerListener(mEventListenerAccelerometer,
+                mSensorManager.getDefaultSensor(Sensor.TYPE_ACCELEROMETER),
+                SensorManager.SENSOR_DELAY_FASTEST);
+    }
+
+    @Override
+    protected void onPause() {
+        mSensorManager.unregisterListener(mEventListenerAccelerometer);
+        super.onPause();
+    }
+
+    private void initListeners() {
+        mEventListenerAccelerometer = new SensorEventListener() {
+            private final float[] gravity = {0, 0, 0};
+            private final float[] linear_acceleration = {0, 0, 0};
+
+            public void onSensorChanged(SensorEvent event) {
+                // alpha is calculated as t / (t + dT)
+                // with t, the low-pass filter's time-constant
+                // and dT, the event delivery rate
+
+                final float alpha = (float)0.8;
+
+                gravity[0] = alpha * gravity[0] + (1 - alpha) * event.values[0];
+                gravity[1] = alpha * gravity[1] + (1 - alpha) * event.values[1];
+                gravity[2] = alpha * gravity[2] + (1 - alpha) * event.values[2];
+
+                linear_acceleration[0] = event.values[0] - gravity[0];
+                linear_acceleration[1] = event.values[1] - gravity[1];
+                linear_acceleration[2] = event.values[2] - gravity[2];
+
+                documentView.scrollBy((int)(linear_acceleration[0] * 10), (int)(linear_acceleration[1] * 10));
+            }
+
+            public void onAccuracyChanged(Sensor sensor, int accuracy) {
+            }
+        };
     }
 }

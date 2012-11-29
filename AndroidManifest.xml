@@ -4,6 +4,7 @@
     <uses-sdk android:minSdkVersion="3" android:targetSdkVersion="7"/>
     <uses-permission android:name="com.android.email.permission.ACCESS_PROVIDER"/>
     <uses-permission android:name="com.android.email.permission.READ_ATTACHMENT"/>
+    <uses-permission android:name="android.permission.INTERNET" />
     <application android:icon="@drawable/icon" android:label="VuDroid" android:debuggable="true">
         <activity android:name=".pdfdroid.PdfViewerActivity" android:configChanges="orientation|keyboardHidden">
             <intent-filter>
