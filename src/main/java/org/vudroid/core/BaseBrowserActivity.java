@@ -1,14 +1,14 @@
 package org.vudroid.core;
 
 import android.app.Activity;
+import android.content.Context;
 import android.net.Uri;
 import android.os.Bundle;
+import android.util.Log;
+import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.AdapterView;
-import android.widget.FrameLayout;
-import android.widget.ListView;
-import android.widget.TabHost;
+import android.widget.*;
 import org.vudroid.R;
 import org.vudroid.core.presentation.BrowserAdapter;
 import org.vudroid.core.presentation.UriBrowserAdapter;
@@ -40,6 +40,8 @@ public abstract class BaseBrowserActivity extends Activity
     private ViewerPreferences viewerPreferences;
     protected final FileFilter filter;
 
+    private TabHost mTabHost;
+
     public BaseBrowserActivity()
     {
         this.filter = createFileFilter();
@@ -55,22 +57,43 @@ public abstract class BaseBrowserActivity extends Activity
         viewerPreferences = new ViewerPreferences(this);
         final ListView browseList = initBrowserListView();
         final ListView recentListView = initRecentListView();
-        TabHost tabHost = (TabHost) findViewById(R.id.browserTabHost);
-        tabHost.setup();
-        tabHost.addTab(tabHost.newTabSpec("Browse").setIndicator("Browse").setContent(new TabHost.TabContentFactory()
-        {
-            public View createTabContent(String s)
-            {
-                return browseList;
+        mTabHost = (TabHost) findViewById(R.id.browserTabHost);
+        mTabHost.setup();
+        setupTab(browseList, "Browse");
+        setupTab(recentListView, "Recent");
+        //android:background="@drawable/background"
+    }
+
+    private void setupTab(final View view, final String tag) {
+        Log.d("setupTab", "begin!!!!!!!!!!!");
+        View tabview = createTabView(mTabHost.getContext(), tag);
+        Log.d("setupTab", "1!!!!!!!!!!!");
+        TabHost.TabContentFactory tabContentFactory = new TabHost.TabContentFactory() {
+            public View createTabContent(String s) {
+                return  view;
             }
-        }));
-        tabHost.addTab(tabHost.newTabSpec("Recent").setIndicator("Recent").setContent(new TabHost.TabContentFactory()
-        {
-            public View createTabContent(String s)
-            {
-                return recentListView;
-            }
-        }));
+        };
+        Log.d("setupTab", "2!!!!!!!!!!!");
+        TabHost.TabSpec setContent = mTabHost.newTabSpec(tag);
+        Log.d("setupTab", "3!!!!!!!!!!!");
+        setContent.setIndicator(tabview);
+        Log.d("setupTab", "4!!!!!!!!!!!");
+        setContent.setContent(tabContentFactory);
+
+        //TabHost.TabSpec setContent = mTabHost.newTabSpec(tag).setIndicator(tag).setContent(tabContentFactory);
+        Log.d("setupTab", "5!!!!!!!!!!!");
+        mTabHost.addTab(setContent);
+        Log.d("setupTab", "end!!!!!!!!!!!");
+    }
+    private static View createTabView(final Context context, final String text) {
+        Log.d("createTabView", "begin!!!!!!!!!!!");
+        View view = LayoutInflater.from(context).inflate(R.layout.tabsbg, null);
+        Log.d("createTabView", "1!!!!!!!!!!!");
+        TextView tv = (TextView) view.findViewById(R.id.tabsText);
+        Log.d("createTabView", "2!!!!!!!!!!!");
+        tv.setText(text);
+        Log.d("createTabView", "end!!!!!!!!!!!");
+        return view;
     }
 
     @Override

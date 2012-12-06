@@ -6,6 +6,7 @@
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="android" url="file://$PROJECT_DIR$" />
   </component>
+  <component name="IdProvider" IDEtalkID="FCD4CEE221D854422BDFC0AE97F5D292" />
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
@@ -38,5 +39,6 @@
     <configuration useDefault="true">$USER_HOME$/.subversion</configuration>
     <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
   </component>
+  <component name="WebServicesPlugin" addRequiredLibraries="true" />
 </project>
 
