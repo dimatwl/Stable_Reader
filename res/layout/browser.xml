@@ -24,4 +24,7 @@
                     android:padding="5dp" />
             </LinearLayout>
     </TabHost>
+    <ListView android:id="@+id/AuthorsList"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content" />
 </LinearLayout>
