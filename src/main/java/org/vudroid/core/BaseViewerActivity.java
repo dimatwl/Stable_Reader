@@ -4,9 +4,9 @@ import android.app.Activity;
 import android.app.Dialog;
 import android.content.SharedPreferences;
 import android.content.res.Configuration;
-//import android.hardware.Sensor;
-//import android.hardware.SensorEvent;
-//import android.hardware.SensorEventListener;
+import android.hardware.Sensor;
+import android.hardware.SensorEvent;
+import android.hardware.SensorEventListener;
 import android.hardware.Sensor;
 import android.hardware.SensorManager;
 import android.os.Bundle;
@@ -38,9 +38,9 @@ public abstract class BaseViewerActivity extends Activity implements DecodingPro
     private Toast pageNumberToast;
     private CurrentPageModel currentPageModel;
 
-    //private SensorManager mSensorManager;
+    private SensorManager mSensorManager;
     ///private SensorManagerSimulator mSensorManager;
-    ///private SensorEventListener mEventListenerAccelerometer;
+    private SensorEventListener mEventListenerAccelerometer;
 
     /**
      * Called when the activity is first created.
@@ -77,9 +77,9 @@ public abstract class BaseViewerActivity extends Activity implements DecodingPro
 
         viewerPreferences.addRecent(getIntent().getData());
 
-        //mSensorManager = (SensorManager)getSystemService(SENSOR_SERVICE);
-        ///mSensorManager = SensorManagerSimulator.getSystemService(this, SENSOR_SERVICE);
-        ///mSensorManager.connectSimulator();
+        mSensorManager = (SensorManager)getSystemService(SENSOR_SERVICE);
+        //mSensorManager = SensorManagerSimulator.getSystemService(this, SENSOR_SERVICE);
+        //mSensorManager.connectSimulator();
         initListeners();
     }
 
@@ -162,7 +162,7 @@ public abstract class BaseViewerActivity extends Activity implements DecodingPro
     @Override
     protected void onStop()
     {
-        ///mSensorManager.unregisterListener(mEventListenerAccelerometer);
+        mSensorManager.unregisterListener(mEventListenerAccelerometer);
         super.onStop();
     }
 
@@ -170,7 +170,7 @@ public abstract class BaseViewerActivity extends Activity implements DecodingPro
     protected void onDestroy() {
         decodeService.recycle();
         decodeService = null;
-        ///mSensorManager.unregisterListener(mEventListenerAccelerometer);
+        mSensorManager.unregisterListener(mEventListenerAccelerometer);
         super.onDestroy();
     }
 
@@ -234,19 +234,19 @@ public abstract class BaseViewerActivity extends Activity implements DecodingPro
     @Override
     protected void onResume() {
         super.onResume();
-        ///mSensorManager.registerListener(mEventListenerAccelerometer,
-           ///     mSensorManager.getDefaultSensor(Sensor.TYPE_ACCELEROMETER),
-           //     SensorManager.SENSOR_DELAY_FASTEST);
+        mSensorManager.registerListener(mEventListenerAccelerometer,
+                mSensorManager.getDefaultSensor(Sensor.TYPE_ACCELEROMETER),
+                SensorManager.SENSOR_DELAY_FASTEST);
     }
 
     @Override
     protected void onPause() {
-        ///mSensorManager.unregisterListener(mEventListenerAccelerometer);
+        mSensorManager.unregisterListener(mEventListenerAccelerometer);
         super.onPause();
     }
 
     private void initListeners() {
-        /*///mEventListenerAccelerometer = new SensorEventListener() {
+        mEventListenerAccelerometer = new SensorEventListener() {
             private final float[] gravity = {0, 0, 0};
             private final float[] linear_acceleration = {0, 0, 0};
 
@@ -265,11 +265,11 @@ public abstract class BaseViewerActivity extends Activity implements DecodingPro
                 linear_acceleration[1] = event.values[1] - gravity[1];
                 linear_acceleration[2] = event.values[2] - gravity[2];
 
-                documentView.scrollBy((int)(linear_acceleration[0] * 10), (int)(linear_acceleration[1] * 10));
+                documentView.scrollBy((int)(linear_acceleration[0] * 10), - (int)(linear_acceleration[1] * 10));
             }
 
             public void onAccuracyChanged(Sensor sensor, int accuracy) {
             }
-        }; */
+        };
     }
 }

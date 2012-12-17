@@ -47,6 +47,7 @@ public class BrowserAdapter extends BaseAdapter
         final ImageView imageView = (ImageView) browserItem.findViewById(R.id.browserItemIcon);
         final File file = files.get(i);
         final TextView textView = (TextView) browserItem.findViewById(R.id.browserItemText);
+        String name = file.getName();
         textView.setText(file.getName());
         if (file.equals(currentDirectory.getParentFile()))
         {

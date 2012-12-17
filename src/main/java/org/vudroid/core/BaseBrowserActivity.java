@@ -11,6 +11,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.*;
 import org.vudroid.R;
+import org.vudroid.core.presentation.AuthorAdapter;
 import org.vudroid.core.presentation.BrowserAdapter;
 import org.vudroid.core.presentation.UriBrowserAdapter;
 
@@ -23,7 +24,8 @@ import static android.R.layout;
 
 public abstract class BaseBrowserActivity extends Activity {
     private BrowserAdapter browserAdapter;
-    String authorsList[] = {"Tolstoy", "Turgenev"};
+    private AuthorAdapter authorAdapter;
+    String authorsList[] = {"Mordkovich", "Vilenkin"};
     private Map<Integer, String[]> authorsMap = new HashMap<Integer, String[]>();
     private boolean isAuthorFileOpen = false;
     private ListView authorsListView;
@@ -34,11 +36,13 @@ public abstract class BaseBrowserActivity extends Activity {
                 public void onItemClick(AdapterView<?> adapterView, View view, int i, long l) {
                     switch (adapterView.getId()) {
                         case R.id.AuthorsList:
-                            int authorId = (int) ((AdapterView<ArrayAdapter>) adapterView).getAdapter().getItemId(i);
-                            ((AdapterView<ArrayAdapter>) adapterView).setAdapter(null);
-                            ((AdapterView<ArrayAdapter>) adapterView).setAdapter(new ArrayAdapter<String>(BaseBrowserActivity.this,
+                            if(!isAuthorFileOpen){
+                                int authorId = (int) ((AdapterView<ArrayAdapter>) adapterView).getAdapter().getItemId(i);
+                                ((AdapterView<ArrayAdapter>) adapterView).setAdapter(null);
+                                ((AdapterView<ArrayAdapter>) adapterView).setAdapter(new ArrayAdapter<String>(BaseBrowserActivity.this,
                                     layout.simple_list_item_1, authorsMap.get(authorId)));
-                            isAuthorFileOpen = true;
+                                isAuthorFileOpen = true;
+                            }
                             break;
                         default:
                             final File file = ((AdapterView<BrowserAdapter>) adapterView).getAdapter().getItem(i);
@@ -80,35 +84,24 @@ public abstract class BaseBrowserActivity extends Activity {
     }
 
     private void setupTab(final View view, final String tag) {
-        Log.d("setupTab", "begin!!!!!!!!!!!");
         View tabview = createTabView(mTabHost.getContext(), tag);
-        Log.d("setupTab", "1!!!!!!!!!!!");
         TabHost.TabContentFactory tabContentFactory = new TabHost.TabContentFactory() {
             public View createTabContent(String s) {
                 return view;
             }
         };
-        Log.d("setupTab", "2!!!!!!!!!!!");
         TabHost.TabSpec setContent = mTabHost.newTabSpec(tag);
-        Log.d("setupTab", "3!!!!!!!!!!!");
         setContent.setIndicator(tabview);
-        Log.d("setupTab", "4!!!!!!!!!!!");
         setContent.setContent(tabContentFactory);
 
         //TabHost.TabSpec setContent = mTabHost.newTabSpec(tag).setIndicator(tag).setContent(tabContentFactory);
-        Log.d("setupTab", "5!!!!!!!!!!!");
         mTabHost.addTab(setContent);
-        Log.d("setupTab", "end!!!!!!!!!!!");
     }
 
     private static View createTabView(final Context context, final String text) {
-        Log.d("createTabView", "begin!!!!!!!!!!!");
         View view = LayoutInflater.from(context).inflate(R.layout.tabsbg, null);
-        Log.d("createTabView", "1!!!!!!!!!!!");
         TextView tv = (TextView) view.findViewById(R.id.tabsText);
-        Log.d("createTabView", "2!!!!!!!!!!!");
         tv.setText(text);
-        Log.d("createTabView", "end!!!!!!!!!!!");
         return view;
     }
 
@@ -153,6 +146,12 @@ public abstract class BaseBrowserActivity extends Activity {
     }
 
     private ListView initAuthorsListView() {
+        /*final ListView listView = new ListView(this);
+        authorAdapter = new AuthorAdapter(this, filter);
+        listView.setAdapter(authorAdapter);
+        listView.setOnItemClickListener(onItemClickListener);
+        listView.setLayoutParams(new FrameLayout.LayoutParams(ViewGroup.LayoutParams.FILL_PARENT, ViewGroup.LayoutParams.FILL_PARENT));
+        return listView;   */
         LayoutInflater layoutInflater = LayoutInflater.from(this);
         final ListView listView = (ListView) layoutInflater.inflate(R.layout.authors, null, false);
         listView.setAdapter(new ArrayAdapter<String>(this, layout.simple_list_item_1, authorsList));
@@ -162,9 +161,9 @@ public abstract class BaseBrowserActivity extends Activity {
     }
 
     private void initAuthorsMap() {
-        String booksList0[] = {"book01", "book02"};
+        String booksList0[] = {"Алгебра 7 класс_Задачник_Мордкович_2001.djvu"};
         authorsMap.put(0, booksList0);
-        String booksList1[] = {"book11", "book12"};
+        String booksList1[] = {"Н.Я.Виленкин. Популярная комбинаторика.djvu"};
         authorsMap.put(1, booksList1);
     }
 
