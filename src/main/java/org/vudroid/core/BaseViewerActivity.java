@@ -7,6 +7,7 @@ import android.content.res.Configuration;
 //import android.hardware.Sensor;
 //import android.hardware.SensorEvent;
 //import android.hardware.SensorEventListener;
+import android.hardware.Sensor;
 import android.hardware.SensorManager;
 import android.os.Bundle;
 import android.view.*;
@@ -19,10 +20,10 @@ import org.vudroid.core.models.DecodingProgressModel;
 import org.vudroid.core.models.ZoomModel;
 import org.vudroid.core.views.PageViewZoomControls;
 
-import org.openintents.sensorsimulator.hardware.Sensor;
-import org.openintents.sensorsimulator.hardware.SensorEvent;
-import org.openintents.sensorsimulator.hardware.SensorEventListener;
-import org.openintents.sensorsimulator.hardware.SensorManagerSimulator;
+//import org.openintents.sensorsimulator.hardware.Sensor;
+//import org.openintents.sensorsimulator.hardware.SensorEvent;
+//import org.openintents.sensorsimulator.hardware.SensorEventListener;
+//import org.openintents.sensorsimulator.hardware.SensorManagerSimulator;
 
 public abstract class BaseViewerActivity extends Activity implements DecodingProgressListener, CurrentPageListener
 {
@@ -38,8 +39,8 @@ public abstract class BaseViewerActivity extends Activity implements DecodingPro
     private CurrentPageModel currentPageModel;
 
     //private SensorManager mSensorManager;
-    private SensorManagerSimulator mSensorManager;
-    private SensorEventListener mEventListenerAccelerometer;
+    ///private SensorManagerSimulator mSensorManager;
+    ///private SensorEventListener mEventListenerAccelerometer;
 
     /**
      * Called when the activity is first created.
@@ -77,8 +78,8 @@ public abstract class BaseViewerActivity extends Activity implements DecodingPro
         viewerPreferences.addRecent(getIntent().getData());
 
         //mSensorManager = (SensorManager)getSystemService(SENSOR_SERVICE);
-        mSensorManager = SensorManagerSimulator.getSystemService(this, SENSOR_SERVICE);
-        mSensorManager.connectSimulator();
+        ///mSensorManager = SensorManagerSimulator.getSystemService(this, SENSOR_SERVICE);
+        ///mSensorManager.connectSimulator();
         initListeners();
     }
 
@@ -161,7 +162,7 @@ public abstract class BaseViewerActivity extends Activity implements DecodingPro
     @Override
     protected void onStop()
     {
-        mSensorManager.unregisterListener(mEventListenerAccelerometer);
+        ///mSensorManager.unregisterListener(mEventListenerAccelerometer);
         super.onStop();
     }
 
@@ -169,7 +170,7 @@ public abstract class BaseViewerActivity extends Activity implements DecodingPro
     protected void onDestroy() {
         decodeService.recycle();
         decodeService = null;
-        mSensorManager.unregisterListener(mEventListenerAccelerometer);
+        ///mSensorManager.unregisterListener(mEventListenerAccelerometer);
         super.onDestroy();
     }
 
@@ -233,19 +234,19 @@ public abstract class BaseViewerActivity extends Activity implements DecodingPro
     @Override
     protected void onResume() {
         super.onResume();
-        mSensorManager.registerListener(mEventListenerAccelerometer,
-                mSensorManager.getDefaultSensor(Sensor.TYPE_ACCELEROMETER),
-                SensorManager.SENSOR_DELAY_FASTEST);
+        ///mSensorManager.registerListener(mEventListenerAccelerometer,
+           ///     mSensorManager.getDefaultSensor(Sensor.TYPE_ACCELEROMETER),
+           //     SensorManager.SENSOR_DELAY_FASTEST);
     }
 
     @Override
     protected void onPause() {
-        mSensorManager.unregisterListener(mEventListenerAccelerometer);
+        ///mSensorManager.unregisterListener(mEventListenerAccelerometer);
         super.onPause();
     }
 
     private void initListeners() {
-        mEventListenerAccelerometer = new SensorEventListener() {
+        /*///mEventListenerAccelerometer = new SensorEventListener() {
             private final float[] gravity = {0, 0, 0};
             private final float[] linear_acceleration = {0, 0, 0};
 
@@ -269,6 +270,6 @@ public abstract class BaseViewerActivity extends Activity implements DecodingPro
 
             public void onAccuracyChanged(Sensor sensor, int accuracy) {
             }
-        };
+        }; */
     }
 }
